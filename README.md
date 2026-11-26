@@ -2,11 +2,11 @@
 
 **▶ 3-minute narrated explainer: the idea, the puzzle, and every benchmark** (turn sound on)
 
-<!-- VIDEO: drag media/looped-transformer-demo.mp4 into GitHub's web editor here; it becomes an inline player. -->
-[![Watch the 3-minute explainer](media/poster.jpg)](https://raw.githubusercontent.com/Adityakk9031/looped-transformer-toy/main/media/looped-transformer-demo.mp4)
 
-*The video was made with [Remotion](https://www.remotion.dev) + Three.js. Source code: [`video/`](video/).*
+https://github.com/user-attachments/assets/7fca9a6f-fab9-46b5-aed7-2e12fc1414f0
 
+
+<!-- VIDEO: drag media/looped-transformer-demo.mp4 into GitHub's web editor here; it becomes an inline player. 
 ## What is a looped transformer?
 A normal transformer gets depth by stacking *different* layers: 8 layers means 8 sets of weights.
 A looped transformer takes one block (or a small stack) and **applies the same weights R times**.
