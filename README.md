@@ -2,9 +2,8 @@
 
 **▶ 3-minute narrated explainer: the idea, the puzzle, and every benchmark** (turn sound on)
 
-<video src="https://raw.githubusercontent.com/Adityakk9031/looped-transformer-toy/main/media/looped-transformer-demo.mp4" poster="media/poster.jpg" controls width="100%"></video>
-
-[![Watch the explainer](media/poster.jpg)](media/looped-transformer-demo.mp4)
+<!-- VIDEO: drag media/looped-transformer-demo.mp4 into GitHub's web editor here; it becomes an inline player. -->
+[![Watch the 3-minute explainer](media/poster.jpg)](https://raw.githubusercontent.com/Adityakk9031/looped-transformer-toy/main/media/looped-transformer-demo.mp4)
 
 *The video was made with [Remotion](https://www.remotion.dev) + Three.js. Source code: [`video/`](video/).*
 
