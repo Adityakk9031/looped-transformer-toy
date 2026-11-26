@@ -6,7 +6,6 @@
 https://github.com/user-attachments/assets/7fca9a6f-fab9-46b5-aed7-2e12fc1414f0
 
 
-<!-- VIDEO: drag media/looped-transformer-demo.mp4 into GitHub's web editor here; it becomes an inline player. 
 ## What is a looped transformer?
 A normal transformer gets depth by stacking *different* layers: 8 layers means 8 sets of weights.
 A looped transformer takes one block (or a small stack) and **applies the same weights R times**.
